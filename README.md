@@ -1,4 +1,4 @@
 # next-insta
-do not compelte
+do not complete
 - firebase
 - nextauth
